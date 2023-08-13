@@ -4,13 +4,10 @@ import (
 	"reflect"
 	"strings"
 
-	// "abmp.cc/abmp/pkg/at"
-	// "abmp.cc/abmp/pkg/inject/annotation"
-	// "abmp.cc/abmp/pkg/log"
-	"abmp.cc/abmp/pkg/system/types"
-	"abmp.cc/abmp/pkg/utils/io"
-	"abmp.cc/abmp/pkg/utils/reflector"
-	"abmp.cc/abmp/pkg/utils/str"
+	"github.com/abmpio/abmp/pkg/system/types"
+	"github.com/abmpio/abmp/pkg/utils/io"
+	"github.com/abmpio/abmp/pkg/utils/reflector"
+	"github.com/abmpio/abmp/pkg/utils/str"
 )
 
 // MetaData is the injectable object meta data

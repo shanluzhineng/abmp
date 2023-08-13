@@ -11,10 +11,10 @@ import (
 	"strings"
 	"sync"
 
-	"abmp.cc/abmp/pkg/log"
-	"abmp.cc/abmp/pkg/utils/replacer"
-	"abmp.cc/abmp/pkg/utils/sort"
-	"abmp.cc/abmp/pkg/utils/str"
+	"github.com/abmpio/abmp/pkg/log"
+	"github.com/abmpio/abmp/pkg/utils/replacer"
+	"github.com/abmpio/abmp/pkg/utils/sort"
+	"github.com/abmpio/abmp/pkg/utils/str"
 	"github.com/mitchellh/mapstructure"
 	"github.com/spf13/viper"
 )

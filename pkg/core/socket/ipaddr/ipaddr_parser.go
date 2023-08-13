@@ -5,8 +5,8 @@ import (
 	"net"
 	"strings"
 
-	"abmp.cc/abmp/pkg/core/socket/template"
-	"abmp.cc/abmp/pkg/multierror"
+	"github.com/abmpio/abmp/pkg/core/socket/template"
+	"github.com/abmpio/abmp/pkg/multierror"
 )
 
 type IPAddrTemplate struct {

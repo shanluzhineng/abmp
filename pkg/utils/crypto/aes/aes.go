@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"io"
 
-	"abmp.cc/abmp/pkg/utils/crypto"
+	"github.com/abmpio/abmp/pkg/utils/crypto"
 )
 
 // Encrypt string to base64 crypto using AES

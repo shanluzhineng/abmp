@@ -7,8 +7,8 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 
-	"abmp.cc/abmp/pkg/utils/crypto"
-	"abmp.cc/abmp/pkg/utils/crypto/base64"
+	"github.com/abmpio/abmp/pkg/utils/crypto"
+	"github.com/abmpio/abmp/pkg/utils/crypto/base64"
 )
 
 // openssl genrsa -out private.pem 1024

@@ -6,16 +6,16 @@ import (
 	"path/filepath"
 	"sync"
 
-	"abmp.cc/abmp/pkg/factory"
-	"abmp.cc/abmp/pkg/factory/depends"
-	"abmp.cc/abmp/pkg/inject"
+	"github.com/abmpio/abmp/pkg/factory"
+	"github.com/abmpio/abmp/pkg/factory/depends"
+	"github.com/abmpio/abmp/pkg/inject"
 
-	"abmp.cc/abmp/pkg/log"
-	"abmp.cc/abmp/pkg/system"
-	"abmp.cc/abmp/pkg/system/types"
-	"abmp.cc/abmp/pkg/utils/cmap"
-	"abmp.cc/abmp/pkg/utils/io"
-	"abmp.cc/abmp/pkg/utils/reflector"
+	"github.com/abmpio/abmp/pkg/log"
+	"github.com/abmpio/abmp/pkg/system"
+	"github.com/abmpio/abmp/pkg/system/types"
+	"github.com/abmpio/abmp/pkg/utils/cmap"
+	"github.com/abmpio/abmp/pkg/utils/io"
+	"github.com/abmpio/abmp/pkg/utils/reflector"
 )
 
 var (

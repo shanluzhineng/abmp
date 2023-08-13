@@ -6,10 +6,10 @@ import (
 	"reflect"
 	"strings"
 
-	"abmp.cc/abmp/pkg/factory"
-	"abmp.cc/abmp/pkg/log"
-	"abmp.cc/abmp/pkg/utils/reflector"
-	"abmp.cc/abmp/pkg/utils/str"
+	"github.com/abmpio/abmp/pkg/factory"
+	"github.com/abmpio/abmp/pkg/log"
+	"github.com/abmpio/abmp/pkg/utils/reflector"
+	"github.com/abmpio/abmp/pkg/utils/str"
 )
 
 var (

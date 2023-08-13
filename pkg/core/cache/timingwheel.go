@@ -6,7 +6,7 @@ import (
 	"time"
 	"unsafe"
 
-	"abmp.cc/abmp/pkg/core/cache/delayqueue"
+	"github.com/abmpio/abmp/pkg/core/cache/delayqueue"
 )
 
 // TimingWheel is an implementation of Hierarchical Timing Wheels.

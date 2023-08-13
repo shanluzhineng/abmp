@@ -3,7 +3,7 @@ package base64
 import (
 	"testing"
 
-	"abmp.cc/abmp/pkg/log"
+	"github.com/abmpio/abmp/pkg/log"
 	"github.com/stretchr/testify/assert"
 )
 

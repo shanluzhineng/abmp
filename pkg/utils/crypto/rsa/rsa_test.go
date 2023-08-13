@@ -3,8 +3,8 @@ package rsa
 import (
 	"testing"
 
-	"abmp.cc/abmp/pkg/log"
-	"abmp.cc/abmp/pkg/utils/crypto"
+	"github.com/abmpio/abmp/pkg/log"
+	"github.com/abmpio/abmp/pkg/utils/crypto"
 	"github.com/stretchr/testify/assert"
 )
 
