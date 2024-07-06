@@ -4,8 +4,8 @@ package factory
 import (
 	"reflect"
 
-	"github.com/abmpio/abmp/pkg/system"
-	"github.com/abmpio/abmp/pkg/utils/reflector"
+	"github.com/shanluzhineng/abmp/pkg/system"
+	"github.com/shanluzhineng/abmp/pkg/utils/reflector"
 )
 
 const (

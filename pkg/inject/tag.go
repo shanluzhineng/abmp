@@ -4,8 +4,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/abmpio/abmp/pkg/factory"
-	"github.com/abmpio/abmp/pkg/utils/cmap"
+	"github.com/shanluzhineng/abmp/pkg/factory"
+	"github.com/shanluzhineng/abmp/pkg/utils/cmap"
 )
 
 // Tag the interface of Tag

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/abmpio/abmp/pkg/utils/crypto"
+	"github.com/shanluzhineng/abmp/pkg/utils/crypto"
 	"github.com/stretchr/testify/assert"
 )
 

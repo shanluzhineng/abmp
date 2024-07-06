@@ -3,7 +3,7 @@ package cache
 import (
 	"time"
 
-	"github.com/abmpio/abmp/pkg/core/cache"
+	"github.com/shanluzhineng/abmp/pkg/core/cache"
 )
 
 type CacheOption cache.Option[string, any]

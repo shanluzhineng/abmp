@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"text/template"
 
-	sockaddr "github.com/abmpio/abmp/pkg/core/socket"
-	"github.com/abmpio/abmp/pkg/multierror"
+	sockaddr "github.com/shanluzhineng/abmp/pkg/core/socket"
+	"github.com/shanluzhineng/abmp/pkg/multierror"
 )
 
 var (

@@ -1,7 +1,7 @@
 package rescue
 
 import (
-	"github.com/abmpio/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/log"
 )
 
 // Recover is used with defer to do cleanup on panics.

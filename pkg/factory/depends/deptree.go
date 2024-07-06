@@ -6,11 +6,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/abmpio/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/log"
 
 	"reflect"
 
-	"github.com/abmpio/abmp/pkg/factory"
+	"github.com/shanluzhineng/abmp/pkg/factory"
 	mapset "github.com/deckarep/golang-set"
 )
 

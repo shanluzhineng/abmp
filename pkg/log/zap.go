@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/abmpio/abmp/pkg/utils/io"
+	"github.com/shanluzhineng/abmp/pkg/utils/io"
 	rotatelogs "github.com/lestrrat-go/file-rotatelogs"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

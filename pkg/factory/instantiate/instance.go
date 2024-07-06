@@ -3,8 +3,8 @@ package instantiate
 import (
 	"reflect"
 
-	"github.com/abmpio/abmp/pkg/factory"
-	"github.com/abmpio/abmp/pkg/utils/cmap"
+	"github.com/shanluzhineng/abmp/pkg/factory"
+	"github.com/shanluzhineng/abmp/pkg/utils/cmap"
 )
 
 type instance struct {

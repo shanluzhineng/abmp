@@ -1,4 +1,4 @@
-module github.com/abmpio/abmp
+module github.com/shanluzhineng/abmp
 
 go 1.20
 

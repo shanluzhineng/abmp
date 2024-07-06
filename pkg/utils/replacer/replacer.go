@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/abmpio/abmp/pkg/utils/reflector"
+	"github.com/shanluzhineng/abmp/pkg/utils/reflector"
 )
 
 const (

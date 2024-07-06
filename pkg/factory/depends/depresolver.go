@@ -4,10 +4,10 @@ package depends
 import (
 	"reflect"
 
-	"github.com/abmpio/abmp/pkg/factory"
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/abmp/pkg/system/types"
-	"github.com/abmpio/abmp/pkg/utils/str"
+	"github.com/shanluzhineng/abmp/pkg/factory"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/system/types"
+	"github.com/shanluzhineng/abmp/pkg/utils/str"
 )
 
 // depResolver sort by the configuration dependency which specified by tag depends

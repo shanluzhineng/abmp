@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/abmpio/abmp/pkg/utils/str"
+	"github.com/shanluzhineng/abmp/pkg/utils/str"
 )
 
 var (

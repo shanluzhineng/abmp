@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/abmpio/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/log"
 	"github.com/stretchr/testify/assert"
 )
 
